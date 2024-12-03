@@ -1,1 +1,1 @@
-numbers = "+919898576653"
+numbers = "<Enter your country code ex: "+91"> <Enter your number>"
